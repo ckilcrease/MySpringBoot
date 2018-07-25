@@ -1,0 +1,8 @@
+GET http://localhost:8081/api/compactdiscs
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-17T034822.404.json
+
+###
+
