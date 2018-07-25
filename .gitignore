@@ -1,3 +1,7 @@
+.idea
+target
+MySolutions.iml
+
 # Compiled class file
 *.class
 
